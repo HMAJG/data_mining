@@ -1,10 +1,7 @@
-# data_mining
+# data_mining/数据挖掘
 data_analysis
 
-
-##  数据挖掘
-
-一、十三种回归算法
+一、十六种回归算法
 	01)LineaRegrssion
 	02)KNeighuborsRegresspr
 	03)SVR
@@ -21,6 +18,7 @@ data_analysis
 	14）Xgbosst
 	15）LightGBM
 	16）Catboost
+	
 二、
 	Gaussian Naive Bayes (GNB)
 	Bernoulli Naive Bayes (BNB)
