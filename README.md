@@ -18,8 +18,9 @@ data_analysis
 	14）Xgbosst
 	15）LightGBM
 	16）Catboost
+	17）Ngboost
 	
-二、
+	二、
 	Gaussian Naive Bayes (GNB)
 	Bernoulli Naive Bayes (BNB)
 	Multinomial Naive Bayes (MNB)
@@ -34,17 +35,17 @@ data_analysis
 	AdaBoost (AB)
 	Gradient Tree Boosting (GTB)
 	
-数据描述
-特征选择
-	Removing features with low variance（剔除低方差的特征）
-	Univariate feature selection（单变量特征选择）
-	Recursive feature elimination（递归功能消除）
-	Feature selection using SelectFromModel（使用SelectFromModel进行特征选择）
+	数据描述
+	特征选择
+		Removing features with low variance（剔除低方差的特征）
+		Univariate feature selection（单变量特征选择）
+		Recursive feature elimination（递归功能消除）
+		Feature selection using SelectFromModel（使用SelectFromModel进行特征选择）
 		首先想到的是利用单变量特征选择的方法选出几个跟预测结果最相关的特征
 		对于回归问题: f_regression, mutual_info_regression
 		对于分类问题: chi2, f_classif, mutual_info_classif
 		空值处理问题：Imputation of missing values
 
 
-模型选择
-模型集成
+	模型选择
+	模型集成
