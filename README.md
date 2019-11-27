@@ -1,7 +1,7 @@
 # data_mining/数据挖掘
 data_analysis
 
-一、十六种回归算法
+	一、十六种回归算法
 	01)LineaRegrssion
 	02)KNeighuborsRegresspr
 	03)SVR
